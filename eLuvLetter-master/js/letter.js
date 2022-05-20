@@ -14,7 +14,7 @@ $("#open").click(function () {
       strings: [
         "^1000Dear&nbsp;&nbsp;" + content.to,
         content.recipient +
-          "<br>" +
+          "<br><br>" +
           content.text +
           "<br><br><p style='float:right; display:block; width:" +
           content.sign +
